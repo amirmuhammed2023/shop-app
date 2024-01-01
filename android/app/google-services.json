@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418805102184",
+    "project_id": "smart-shop-df3fd",
+    "storage_bucket": "smart-shop-df3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418805102184:android:6f247bd3097625c3326ddd",
+        "android_client_info": {
+          "package_name": "com.example.appwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbY2Z9gS7UfDpXQmqjCax2IoKzM8Mu6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
